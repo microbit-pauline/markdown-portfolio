@@ -1,1 +1,1 @@
-![Image of Microbit logo] (https://images.search.yahoo.com/yhs/search;_ylt=AwrB4Rotk1hbLmgAmV8PxQt.;_ylu=X3oDMTByMjB0aG5zBGNvbG8DYmYxBHBvcwMxBHZ0aWQDBHNlYwNzYw--?p=microbit+logo&fr=yhs-adk-adk_sbnt&hspart=adk&hsimp=yhs-adk_sbnt#id=0&iurl=http%3A%2F%2Fwww.tech4goodawards.com%2Fwp-content%2Fuploads%2F2016%2F05%2FBBC-Microbit.png&action=click)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
